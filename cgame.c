@@ -5,16 +5,16 @@ int main()
 {
     // Step 0: Declare names array properly
     const char *names[10] = {
-        "18", "7", "Krishna", "999", "vasu",
+        "18", "7", "Krish", "999", "vasu",
         "suraj", "raj", "10", "uttam", "45"
     };
 
     // Step 1: Declare rows
     const char *rows[5][5] = {
         {"10", "vasu", "18", "raj", "45"},
-        {"999", "7", "vasu", "suraj", "krishna"},
-        {"18", "999", "10", "krishna", "uttam"},
-        {"7", "18", "vasu", "raj", "krishna"},
+        {"999", "7", "vasu", "suraj", "krish"},
+        {"18", "999", "10", "krish", "uttam"},
+        {"7", "18", "vasu", "raj", "krish"},
         {"999", "7", "suraj", "10", "45"}
     };
 
